@@ -1,0 +1,3 @@
+wa pi
+wa 10 choose 3
+wa 105 degrees in radians
