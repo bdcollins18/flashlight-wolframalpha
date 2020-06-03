@@ -1,0 +1,3 @@
+wa <input>
+wa 105 degrees in radians
+wa circumference of the moon in meters
