@@ -1,0 +1,9 @@
+{
+    "name": "wolframalpha", // this must be the same as your folder name
+    "displayName": "Wolfram Alpha",
+    "description": "Searches Wolfram Alpha",
+    "examples": ["wa <input>", "wa 105 degrees in radians", "wa circumference of the moon in meters"], // these appear by your plugin's description
+    "categories": ["Utilities"],
+    "creator_name": "Brian Collins",
+    "creator_url": "https://github.com/bdcollins18"
+}
