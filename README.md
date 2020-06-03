@@ -1,2 +1,2 @@
 # flashlight-wolframalpha
-A WolframAlpha plugin for Flashlight
+A Wolfram|Alpha plugin for Flashlight
