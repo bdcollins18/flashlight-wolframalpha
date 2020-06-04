@@ -1,1 +1,1 @@
-wa ~input(some input text) # {"~input" : "some input text"}
+wa ~input(some input text)
